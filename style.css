@@ -9,23 +9,13 @@
         display: flex;
         flex-direction: column;
         align-items: flex-end;
-    }
+ }
 
-    .icon-link {
+.icon-link {
         display: flex;
         align-items: center;
         justify-content: center;
-        width: 80px;
-        height: 80px;
-        background-color: white;
-        border-radius: 50%;
-        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
         margin-top: 10px;
         text-decoration: none;
-        color: black;
-    }
+}
 
-    .instagram:hover,
-    .whatsapp:hover {
-        background-color: #e8e8e8;
-    }
